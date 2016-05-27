@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Luuvanhoa\\Hello\\": "src"
+            "luuvanhoa\\Hello\\": "src"
         }
     }
 }
