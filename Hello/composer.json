@@ -1,0 +1,21 @@
+{
+    "name": "luuvanhoa/Hello",
+    "description": "LuuVanHoa description",
+    "license": "MIT",
+    "keywords": ["luuhoa","Hello"],
+    "authors": [
+        {
+            "name": "Luu Hoa",
+            "email": "luuvanhoa93@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luuvanhoa\\Hello\\": "src"
+        }
+    }
+}
