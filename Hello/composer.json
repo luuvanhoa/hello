@@ -1,5 +1,5 @@
 {
-    "name": "luuvanhoa/Hello",
+    "name": "luuvanhoa/hello",
     "description": "LuuVanHoa description",
     "license": "MIT",
     "keywords": ["luuhoa","Hello"],
@@ -10,6 +10,7 @@
         }
     ],
     "require": {},
+    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "4.0.*"
     },
